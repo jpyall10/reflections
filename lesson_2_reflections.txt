@@ -13,3 +13,7 @@ use git diff to see the difference between working area and staging then only ad
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 if you want a test version for a new feature, or a different language, etc. Branches allow the original version to stay unchanged
+
+How do the diagrams help you visualize the branch structure?
+
+the show the chain that is reachable in each branch and any unreachable commits
