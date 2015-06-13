@@ -9,3 +9,7 @@ Staging area is not saved as a commit but is ready to. It shows what changes are
 How can you use the staging area to make sure you have one commit per logical change?
 
 use git diff to see the difference between working area and staging then only add one change per commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+if you want a test version for a new feature, or a different language, etc. Branches allow the original version to stay unchanged
