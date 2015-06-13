@@ -5,3 +5,7 @@ When you initialize a repository it creates the .git file necessary to create th
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is not saved as a commit but is ready to. It shows what changes are ready to be committed
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+use git diff to see the difference between working area and staging then only add one change per commit
