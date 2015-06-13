@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository it creates the .git file necessary to create the metadata for a git repository. I need to do this to be able to use git commands like, git log, git status, git diff, etc.
